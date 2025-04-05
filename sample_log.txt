@@ -1,0 +1,7 @@
+[INFO] Server started at 10:00 AM
+[WARNING] High memory usage detected
+[INFO] User login successful
+[ERROR] Database connection failed
+[ERROR] Timeout occurred
+[INFO] Job completed
+[WARNING] Disk space low
